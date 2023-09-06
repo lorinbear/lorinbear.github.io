@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t}from"./index-ffbf6f89.js";const o={name:"DialogIntimacy"},c={class:"has-design dialog-intimacy"};function s(_,n,i,d,r,l){return e(),t("div",c)}const m=a(o,[["render",s],["__scopeId","data-v-af083b0b"]]);export{m as default};
